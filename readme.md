@@ -1,8 +1,8 @@
 # Ali Mascot#7871
 
-Hello, my name is Ali the musical mascot for your discord server!
+Hewwo!!! My name is Ali the musical mascot for yours truly
 
-Currently I have 18 slash commands with good categories `Music` `Fun` `Information`
+Currently I have 18 slash commands with good categories `Music` `Fun` `Info`
 
 Whatever you need, ask for help
 
